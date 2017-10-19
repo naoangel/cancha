@@ -1,0 +1,18 @@
+.green{
+
+	height: 499px;
+	width: 1000px;
+	margin-top: 20px;
+	background-color:#8CB27C;
+    padding: 20px;
+    border: 10px solid white;
+    outline: 20px solid#8CB27C;
+    position: relative;
+}
+
+
+.lines{
+
+   height: 10px;
+   width:  ;
+  }
